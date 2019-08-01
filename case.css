@@ -1,0 +1,13 @@
+.bk{
+    background-color: rgb(158, 157, 157)
+}
+#tab{
+    border:5px rgb(144, 142, 139) outset;
+        
+      }
+     #r{
+        margin: 25px 50px 75px 500px;
+     }
+         #t{
+            text-align: center;
+         } 
